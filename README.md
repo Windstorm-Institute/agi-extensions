@@ -32,5 +32,5 @@ This Windstorm-Institute repository exists as a stable institutional pointer. Th
 ## In context
 
 - **Papers 1–6** (the Windstorm research arc through the Inherited Constraint hypothesis): [`Windstorm-Institute/fons-constraint`](https://github.com/Windstorm-Institute/fons-constraint)
-- **Experiment code mirror:** [`WIndstorm-Labs/agi-extensions`](https://github.com/WIndstorm-Labs/agi-extensions)
+- **Experiment code mirror:** [`Windstorm-Labs/agi-extensions`](https://github.com/Windstorm-Labs/agi-extensions)
 - **Website:** [windstorminstitute.org](https://windstorminstitute.org)
