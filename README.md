@@ -24,7 +24,7 @@ This Windstorm-Institute repository exists as a stable institutional pointer. Th
 
 ## Key links
 
-- **Formal manuscript:** [`paper/paper7_formal_draft.md`](https://github.com/sneakyfree/agi-extensions/blob/main/paper/paper7_formal_draft.md)
+- **Formal manuscript (v1.2 PDF):** [`Paper7-Throughput-Basin-Origin-v1.2.pdf`](https://github.com/sneakyfree/agi-extensions/blob/main/paper/Paper7-Throughput-Basin-Origin-v1.2.pdf)
 - **Internal adversarial review:** [`review/adversarial_review.md`](https://github.com/sneakyfree/agi-extensions/blob/main/review/adversarial_review.md)
 - **Paper 7.1 tracking issue:** [sneakyfree/agi-extensions#1](https://github.com/sneakyfree/agi-extensions/issues/1)
 - **Long-form companion article:** [The Mirror, Not the Wall](https://windstorminstitute.org/articles/throughput-basin-origin.html)
