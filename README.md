@@ -4,7 +4,7 @@ This repository was renamed. **Paper 7 — *The Throughput Basin Origin* — now
 
 → **[github.com/Windstorm-Institute/throughput-basin-origin](https://github.com/Windstorm-Institute/throughput-basin-origin)**
 
-That repository holds the current manuscript (v1.5), the internal adversarial review, the Grand Slam supplementary materials, the complete experiment tree, the published article, and the Paper 7.1 tracking issue.
+That repository holds the current manuscript (v1.6), the internal adversarial review, the Grand Slam supplementary materials, the complete experiment tree, the published article, and the Paper 7.1 tracking issue.
 
 ## Why the rename?
 
@@ -12,13 +12,13 @@ This work was originally drafted under the working title *AGI Extensions*. When 
 
 ## Direct links
 
-- **Manuscript (v1.5 PDF):** [`paper.pdf`](https://github.com/Windstorm-Institute/throughput-basin-origin/blob/main/paper.pdf)
+- **Manuscript (v1.6 PDF):** [`paper.pdf`](https://github.com/Windstorm-Institute/throughput-basin-origin/blob/main/paper.pdf)
 - **Internal adversarial review:** [`review/adversarial_review.md`](https://github.com/Windstorm-Institute/throughput-basin-origin/blob/main/review/adversarial_review.md)
 - **Grand Slam supplementary materials:** [`grandslam_supplementary.pdf`](https://github.com/Windstorm-Institute/throughput-basin-origin/blob/main/grandslam_supplementary.pdf)
 - **Paper 7.1 tracking issue:** [throughput-basin-origin#1](https://github.com/Windstorm-Institute/throughput-basin-origin/issues/1)
 - **Long-form companion article:** [The Mirror, Not the Wall](https://windstorminstitute.org/articles/throughput-basin-origin.html)
 - **Code mirror:** [`Windstorm-Labs/throughput-basin-origin`](https://github.com/Windstorm-Labs/throughput-basin-origin)
-- **Zenodo record:** [10.5281/zenodo.19498582](https://doi.org/10.5281/zenodo.19498582)
+- **Zenodo record (concept DOI, always-latest):** [10.5281/zenodo.19498582](https://doi.org/10.5281/zenodo.19498582) · **v1.6 (this version):** [10.5281/zenodo.19672654](https://doi.org/10.5281/zenodo.19672654)
 
 ## In context
 
